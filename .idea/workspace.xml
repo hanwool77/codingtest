@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/0914/BQJ_3190_뱀_G4.py" line="0" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="033f0340-00c0-443b-8691-2d25cfd4693c" name="Default Changelist" comment="" />
+    <list default="true" id="033f0340-00c0-443b-8691-2d25cfd4693c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,54 +17,41 @@
     <session id="1878112677">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="10" />
+          <entry key="project.open.time.3" value="11" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="31" />
+          <entry key="py" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="31" />
+          <entry key="Python" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="69" />
-          <entry key="py" value="14898" />
+          <entry key="py" value="15527" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="69" />
-          <entry key="Python" value="14898" />
+          <entry key="Python" value="15527" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0928/BQJ_18352_특정거리의도시찾기_S3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <marker date="1664364894796" expanded="true" signature="298:303" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0909/SWEA_1952_수영장_SW.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0928/BQJ_14888_연산자끼워넣기_S1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="525">
               <caret line="21" column="17" selection-end-line="33" />
               <folding>
                 <marker date="1664366457800" expanded="true" signature="291:295" ph="..." />
@@ -102,11 +91,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0929/BQJ_2110_공유기설치_G4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="72">
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1003/BQJ_12865_평범한배낭_G5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="19" column="15" lean-forward="true" selection-end-line="19" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -181,6 +179,7 @@
         <option value="$PROJECT_DIR$/0927/test.py" />
         <option value="$PROJECT_DIR$/0928/test.py" />
         <option value="$PROJECT_DIR$/0929/BQJ_2110_공유기설치_G4.py" />
+        <option value="$PROJECT_DIR$/1003/BQJ_12865_평범한배낭_G5.py" />
       </list>
     </option>
   </component>
@@ -206,6 +205,11 @@
               <item name="codingtest" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingtest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="codingtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingtest" type="462c0819:PsiDirectoryNode" />
+              <item name="0929" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -228,8 +232,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BQJ_2110_공유기설치_G4">
-    <configuration name="BQJ_15686_치킨배달_G5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BQJ_12865_평범한배낭_G5">
+    <configuration name="BQJ_12865_평범한배낭_G5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0926" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1003" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0926/BQJ_15686_치킨배달_G5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1003/BQJ_12865_평범한배낭_G5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,19 +339,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BQJ_15686_치킨배달_G5" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.test (2)" />
       <item itemvalue="Python.BQJ_2110_공유기설치_G4" />
+      <item itemvalue="Python.BQJ_12865_평범한배낭_G5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BQJ_12865_평범한배낭_G5" />
         <item itemvalue="Python.BQJ_2110_공유기설치_G4" />
         <item itemvalue="Python.test (2)" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.BQJ_15686_치킨배달_G5" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +383,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2940341" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.293617" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -477,9 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1775">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <marker date="1664288028297" expanded="true" signature="138:1303" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -515,6 +516,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0928/BQJ_14888_연산자끼워넣기_S1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="17" selection-end-line="33" />
+          <folding>
+            <marker date="1664366457800" expanded="true" signature="291:295" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0830/BQJ_4358_생태학_S2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -539,20 +550,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0928/BQJ_14888_연산자끼워넣기_S1.py">
+    <entry file="file://$PROJECT_DIR$/0929/BQJ_2110_공유기설치_G4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="21" column="17" selection-end-line="33" />
-          <folding>
-            <marker date="1664366457800" expanded="true" signature="291:295" ph="..." />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0929/BQJ_2110_공유기설치_G4.py">
+    <entry file="file://$PROJECT_DIR$/1003/BQJ_12865_평범한배낭_G5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        <state relative-caret-position="325">
+          <caret line="19" column="15" lean-forward="true" selection-end-line="19" selection-end-column="15" />
         </state>
       </provider>
     </entry>
