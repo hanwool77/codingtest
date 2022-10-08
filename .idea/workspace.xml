@@ -28,24 +28,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="40" />
+          <entry key="py" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="40" />
+          <entry key="Python" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="101" />
-          <entry key="py" value="20601" />
+          <entry key="Python Console" value="1" />
+          <entry key="dummy" value="116" />
+          <entry key="py" value="21115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="101" />
-          <entry key="Python" value="20601" />
+          <entry key="PLAIN_TEXT" value="116" />
+          <entry key="Python" value="21116" />
         </counts>
       </usages-collector>
     </session>
@@ -71,19 +72,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1008/test.py">
+        <entry file="file://$PROJECT_DIR$/1008/PRO_신규아이디추천.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="300">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1008/PRO_신규아이디추천.py">
+        <entry file="file://$PROJECT_DIR$/1008/PRO_게임_맵_최단거리.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="373">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -188,8 +189,9 @@
         <option value="$PROJECT_DIR$/1004/BQJ_2615_오목_S1.py" />
         <option value="$PROJECT_DIR$/1007/test.py" />
         <option value="$PROJECT_DIR$/1008/PRO_2개이하로다른비트.py" />
-        <option value="$PROJECT_DIR$/1008/test.py" />
         <option value="$PROJECT_DIR$/1008/PRO_신규아이디추천.py" />
+        <option value="$PROJECT_DIR$/1008/test.py" />
+        <option value="$PROJECT_DIR$/1008/PRO_게임_맵_최단거리.py" />
       </list>
     </option>
   </component>
@@ -328,7 +330,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1008/test.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\SSAFY\Desktop\codingtest\1008\PRO_게임_맵_최단거리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -405,7 +407,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.28977272" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -622,17 +624,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1008/test.py">
+    <entry file="file://$PROJECT_DIR$/1008/PRO_신규아이디추천.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="300">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1008/PRO_신규아이디추천.py">
+    <entry file="file://$PROJECT_DIR$/1008/PRO_게임_맵_최단거리.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
         </state>
       </provider>
     </entry>
