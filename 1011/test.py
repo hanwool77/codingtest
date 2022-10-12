@@ -1,4 +1,3 @@
-import re
+arr = ['13:30', '08:30', '11:30']
 
-x = '1*2+3-5'
-print(re.split(['*','+'], x))
+print(sorted(arr))
