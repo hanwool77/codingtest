@@ -32,13 +32,11 @@ while True:
             check = True    # 청소 했다고 check
             break
 
-    if not check:   # 네 방향 모두 청소가 이미 되어있거나 벽이라면
+    if not check:  # 4방향을 확인했음에도 청소할 공간이 없는 경우 후진
         nx = x - dx[d]
         ny = y - dy[d]
-
-        if 0 <= nx < n and 0 <= ny < n and graph[nx][ny] == 2:
-            x = nx
-            y = ny
+        if 0 <= nx < n and 0 <= ny < m and graph[nx][ny] == 2:
+                x, y = nx, ny
         else:
             print(count)
             break
