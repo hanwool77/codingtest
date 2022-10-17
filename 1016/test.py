@@ -1,0 +1,1 @@
+print(type(bin(6)[2:]).r)
