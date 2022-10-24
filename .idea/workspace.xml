@@ -18,37 +18,37 @@
     <session id="1878112677">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="24" />
-          <entry key="project.open.time.4" value="5" />
+          <entry key="project.open.time.4" value="6" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="33" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="74" />
+          <entry key="py" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="74" />
+          <entry key="Python" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="1" />
           <entry key="dummy" value="165" />
-          <entry key="py" value="30582" />
+          <entry key="py" value="31516" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="165" />
-          <entry key="Python" value="30581" />
+          <entry key="Python" value="31515" />
           <entry key="RegExp" value="2" />
         </counts>
       </usages-collector>
@@ -56,27 +56,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1020/PRO_1차캐시.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1020/PRO_뉴스클러스터링.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1021/test.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,14 +68,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1023/BQJ_11497_통나무건너뛰기_S1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
+            <state relative-caret-position="675">
               <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1023/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-121">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <marker date="1666528211921" expanded="true" signature="69:275" ph="..." />
+                <marker date="1666528211921" expanded="true" signature="304:309" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1024/SWEA_1952_수영장.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -180,8 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0830/BQJ_4358_생태학_S2.py" />
-        <option value="$PROJECT_DIR$/0830/BQJ_1991_트리순회_S1.py" />
         <option value="$PROJECT_DIR$/0830/BQJ-22856_트리 순회_G4.py" />
         <option value="$PROJECT_DIR$/0831/BQJ_2812_크게만들기_G4.py" />
         <option value="$PROJECT_DIR$/0831/BQJ_1647_도시분할계획_G4.py" />
@@ -231,6 +230,8 @@
         <option value="$PROJECT_DIR$/1020/PRO_뉴스클러스터링.py" />
         <option value="$PROJECT_DIR$/1021/test.py" />
         <option value="$PROJECT_DIR$/1023/BQJ_11497_통나무건너뛰기_S1.py" />
+        <option value="$PROJECT_DIR$/1023/test.py" />
+        <option value="$PROJECT_DIR$/1024/SWEA_1952_수영장.py" />
       </list>
     </option>
   </component>
@@ -255,11 +256,6 @@
               <item name="codingtest" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingtest" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="codingtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingtest" type="462c0819:PsiDirectoryNode" />
-              <item name="1023" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -283,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BQJ_11497_통나무건너뛰기_S1">
+  <component name="RunManager" selected="Python.SWEA_1952_수영장">
     <configuration name="BQJ_11055_가장긴증가하는부분수열_S1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -326,27 +322,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BQJ_2251_물통_G4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1018" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1018/BQJ_2251_물통_G4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="PRO_뉴스클러스터링" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -360,6 +335,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1020/PRO_뉴스클러스터링.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SWEA_1952_수영장" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1024/SWEA_1952_수영장.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -390,19 +386,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BQJ_2251_물통_G4" />
       <item itemvalue="Python.BQJ_11055_가장긴증가하는부분수열_S1" />
       <item itemvalue="Python.PRO_뉴스클러스터링" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.BQJ_11497_통나무건너뛰기_S1" />
+      <item itemvalue="Python.SWEA_1952_수영장" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SWEA_1952_수영장" />
         <item itemvalue="Python.BQJ_11497_통나무건너뛰기_S1" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.PRO_뉴스클러스터링" />
         <item itemvalue="Python.BQJ_11055_가장긴증가하는부분수열_S1" />
-        <item itemvalue="Python.BQJ_2251_물통_G4" />
       </list>
     </recent_temporary>
   </component>
@@ -446,20 +442,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0906/BQJ_11866_요네푸스 문제 0_S5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0907/BQJ_13302_리조트_G4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0907/BQJ_6118_숨바꼭질_S1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -722,9 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,6 +720,26 @@
           <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1021/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <marker date="1666355542200" expanded="true" signature="78:298" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1023/BQJ_11497_통나무건너뛰기_S1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -791,23 +790,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1021/test.py">
+    <entry file="file://$PROJECT_DIR$/1023/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="-121">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
-            <marker date="1666355542200" expanded="true" signature="78:298" ph="..." />
+            <marker date="1666528211921" expanded="true" signature="69:275" ph="..." />
+            <marker date="1666528211921" expanded="true" signature="304:309" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1023/BQJ_11497_통나무건너뛰기_S1.py">
+    <entry file="file://$PROJECT_DIR$/1024/SWEA_1952_수영장.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="279">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
