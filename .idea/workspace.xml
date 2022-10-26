@@ -18,37 +18,37 @@
     <session id="1878112677">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
+          <entry key="project.closed" value="34" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="24" />
+          <entry key="project.open.time.3" value="26" />
           <entry key="project.open.time.4" value="6" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="76" />
+          <entry key="py" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="76" />
+          <entry key="Python" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="1" />
-          <entry key="dummy" value="165" />
-          <entry key="py" value="31516" />
+          <entry key="dummy" value="180" />
+          <entry key="py" value="34776" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="165" />
-          <entry key="Python" value="31515" />
+          <entry key="PLAIN_TEXT" value="180" />
+          <entry key="Python" value="34775" />
           <entry key="RegExp" value="2" />
         </counts>
       </usages-collector>
@@ -57,22 +57,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1021/test.py">
+        <entry file="file://$PROJECT_DIR$/1024/SWEA_1952_수영장.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="575">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1024/SWEA_2105_디저트카페.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
               <folding>
-                <marker date="1666355542200" expanded="true" signature="78:298" ph="..." />
+                <marker date="1666626740920" expanded="true" signature="91:681" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1023/BQJ_11497_통나무건너뛰기_S1.py">
+        <entry file="file://$PROJECT_DIR$/1025/BQJ_15900_나무탈출_S1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+            <state relative-caret-position="-75">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -80,24 +89,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1023/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-121">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <marker date="1666528211921" expanded="true" signature="69:275" ph="..." />
-                <marker date="1666528211921" expanded="true" signature="304:309" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1024/SWEA_1952_수영장.py">
+        <entry file="file://$PROJECT_DIR$/1026/BQJ_7576_토마토_G5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="273">
+              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,10 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0830/BQJ-22856_트리 순회_G4.py" />
-        <option value="$PROJECT_DIR$/0831/BQJ_2812_크게만들기_G4.py" />
-        <option value="$PROJECT_DIR$/0831/BQJ_1647_도시분할계획_G4.py" />
-        <option value="$PROJECT_DIR$/0831/test.py" />
         <option value="$PROJECT_DIR$/0902/BQJ_11654_아스키코드_B5.py" />
         <option value="$PROJECT_DIR$/0902/BQJ_13549_숨바꼭질3_G5.py" />
         <option value="$PROJECT_DIR$/0906/BQJ_15961_회전초밥_G4.py" />
@@ -232,6 +227,10 @@
         <option value="$PROJECT_DIR$/1023/BQJ_11497_통나무건너뛰기_S1.py" />
         <option value="$PROJECT_DIR$/1023/test.py" />
         <option value="$PROJECT_DIR$/1024/SWEA_1952_수영장.py" />
+        <option value="$PROJECT_DIR$/1024/BQJ_15900_나무탈출_S1.py" />
+        <option value="$PROJECT_DIR$/1024/SWEA_2105_디저트카페.py" />
+        <option value="$PROJECT_DIR$/1025/BQJ_15900_나무탈출_S1.py" />
+        <option value="$PROJECT_DIR$/1026/BQJ_7576_토마토_G5.py" />
       </list>
     </option>
   </component>
@@ -279,8 +278,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SWEA_1952_수영장">
-    <configuration name="BQJ_11055_가장긴증가하는부분수열_S1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BQJ_7576_토마토_G5">
+    <configuration name="BQJ_15900_나무탈출_S1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1018" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1018/BQJ_11055_가장긴증가하는부분수열_S1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1025/BQJ_15900_나무탈출_S1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BQJ_11497_통나무건너뛰기_S1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BQJ_15900_나무탈출_S1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,11 +308,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1023/BQJ_11497_통나무건너뛰기_S1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\SSAFY\Desktop\codingtest\1024\SWEA_2105_디저트카페.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +321,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PRO_뉴스클러스터링" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BQJ_7576_토마토_G5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,11 +329,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1020/PRO_뉴스클러스터링.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1026/BQJ_7576_토마토_G5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,7 +363,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_2105_디저트카페" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -372,11 +371,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1021" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1021/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1024/SWEA_2105_디저트카페.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,19 +385,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BQJ_11055_가장긴증가하는부분수열_S1" />
-      <item itemvalue="Python.PRO_뉴스클러스터링" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.BQJ_11497_통나무건너뛰기_S1" />
       <item itemvalue="Python.SWEA_1952_수영장" />
+      <item itemvalue="Python.BQJ_15900_나무탈출_S1" />
+      <item itemvalue="Python.SWEA_2105_디저트카페" />
+      <item itemvalue="Python.BQJ_15900_나무탈출_S1 (1)" />
+      <item itemvalue="Python.BQJ_7576_토마토_G5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BQJ_7576_토마토_G5" />
+        <item itemvalue="Python.BQJ_15900_나무탈출_S1 (1)" />
+        <item itemvalue="Python.SWEA_2105_디저트카페" />
+        <item itemvalue="Python.BQJ_15900_나무탈출_S1" />
         <item itemvalue="Python.SWEA_1952_수영장" />
-        <item itemvalue="Python.BQJ_11497_통나무건너뛰기_S1" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.PRO_뉴스클러스터링" />
-        <item itemvalue="Python.BQJ_11055_가장긴증가하는부분수열_S1" />
       </list>
     </recent_temporary>
   </component>
@@ -442,27 +441,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0907/BQJ_6118_숨바꼭질_S1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0914/BQJ_1439_문자열뒤집기_S5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0914/BQJ_3190_뱀_G4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0926/BQJ_15686_치킨배달_G5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -718,9 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,9 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <marker date="1666355542200" expanded="true" signature="78:298" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -738,8 +710,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1023/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1666528211921" expanded="true" signature="69:275" ph="..." />
+            <marker date="1666528211921" expanded="true" signature="304:309" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1024/SWEA_1952_수영장.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1024/SWEA_2105_디저트카페.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+          <folding>
+            <marker date="1666626740920" expanded="true" signature="91:681" ph="..." />
           </folding>
         </state>
       </provider>
@@ -790,21 +787,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1023/test.py">
+    <entry file="file://$PROJECT_DIR$/1025/BQJ_15900_나무탈출_S1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="-75">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
-            <marker date="1666528211921" expanded="true" signature="69:275" ph="..." />
-            <marker date="1666528211921" expanded="true" signature="304:309" ph="..." />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1024/SWEA_1952_수영장.py">
+    <entry file="file://$PROJECT_DIR$/1026/BQJ_7576_토마토_G5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="273">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
