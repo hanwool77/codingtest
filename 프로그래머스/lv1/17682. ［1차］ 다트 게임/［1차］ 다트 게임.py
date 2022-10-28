@@ -1,29 +1,25 @@
+import re
+
 def solution(dartResult):
-    n = ''
-    score = []
-    for i in dartResult:
-        print(i)
-        if i.isnumeric():
-            n += i
-        elif i == 'S':
-            n = int(n) ** 1
-            score.append(n)
-            n = ''
-        elif i == 'D':
-            n = int(n) ** 2
-            score.append(n)
-            n = ''
-        elif i == 'T':
-            n = int(n) ** 3
-            score.append(n)
-            n = ''
-        elif i == '*':
-            if len(score) > 1:
-                score[-2] = score[-2] * 2
-                score[-1] = score[-1] * 2
-            else:
-                score[-1] = score[-1] * 2
-        elif i == '#':
-            score[-1] = score[-1] * -1
-  
-    return sum(score)
+    패턴 = re.compile(r'([0-9]|10)([SDT])([\*\#]?)')
+    answer = []
+    
+    for num, score, price in 패턴.findall(dartResult):
+        num = int(num)
+        if score == 'S':
+            answer.append(num)
+        elif score == 'D':
+            answer.append(num ** 2)
+        elif score == 'T':
+            answer.append(num ** 3)
+            
+        if price == '*':
+            answer[-1] *= 2
+            if len(answer) >= 2:
+                answer[-2] *= 2
+        
+        elif price == '#':
+            answer[-1] *= -1
+          
+    
+    return sum(answer)
