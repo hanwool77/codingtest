@@ -30,25 +30,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="83" />
+          <entry key="py" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="83" />
+          <entry key="Python" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="1" />
           <entry key="dummy" value="194" />
-          <entry key="py" value="37756" />
+          <entry key="py" value="38418" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="194" />
-          <entry key="Python" value="37755" />
+          <entry key="Python" value="38417" />
           <entry key="RegExp" value="2" />
         </counts>
       </usages-collector>
@@ -56,15 +56,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1026/PRO_여행경로.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1027/BQJ_14891_톱니바퀴_G5.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,11 +80,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1031/PRO_숫자문자열과영단어.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="150">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1031/BQJ_1916_최소비용구하기_G5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+                <marker date="1667219833169" expanded="true" signature="400:760" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -177,8 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0906/BQJ_11866_요네푸스 문제 0_S5.py" />
-        <option value="$PROJECT_DIR$/0907/BQJ_13302_리조트_G4.py" />
         <option value="$PROJECT_DIR$/0907/BQJ_6118_숨바꼭질_S1.py" />
         <option value="$PROJECT_DIR$/0909/SWEA_1952_수영장_SW.py" />
         <option value="$PROJECT_DIR$/0914/BQJ_1439_문자열뒤집기_S5.py" />
@@ -228,6 +230,8 @@
         <option value="$PROJECT_DIR$/1027/BQJ_14891_톱니바퀴_G5.py" />
         <option value="$PROJECT_DIR$/1027/BQJ_1325_효율적인해킹_S1.py" />
         <option value="$PROJECT_DIR$/1031/Test.py" />
+        <option value="$PROJECT_DIR$/1031/PRO_숫자문자열과영단어.py" />
+        <option value="$PROJECT_DIR$/1031/BQJ_1916_최소비용구하기_G5.py" />
       </list>
     </option>
   </component>
@@ -280,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Test">
+  <component name="RunManager" selected="Python.BQJ_1916_최소비용구하기_G5">
     <configuration name="BQJ_1325_효율적인해킹_S1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BQJ_7576_토마토_G5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BQJ_1916_최소비용구하기_G5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,11 +335,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1026" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1031" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1026/BQJ_7576_토마토_G5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1031/BQJ_1916_최소비용구하기_G5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,19 +391,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BQJ_7576_토마토_G5" />
       <item itemvalue="Python.PRO_여행경로" />
       <item itemvalue="Python.BQJ_14891_톱니바퀴_G5" />
       <item itemvalue="Python.BQJ_1325_효율적인해킹_S1" />
       <item itemvalue="Python.Test" />
+      <item itemvalue="Python.BQJ_1916_최소비용구하기_G5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BQJ_1916_최소비용구하기_G5" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.BQJ_1325_효율적인해킹_S1" />
         <item itemvalue="Python.BQJ_14891_톱니바퀴_G5" />
         <item itemvalue="Python.PRO_여행경로" />
-        <item itemvalue="Python.BQJ_7576_토마토_G5" />
       </list>
     </recent_temporary>
   </component>
@@ -418,19 +422,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20224719" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20224719" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3338068" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3338068" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28368795" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28267047" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -442,13 +447,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0928/BQJ_14888_연산자끼워넣기_S1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="17" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1003/BQJ_14502_연구소_G4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
@@ -799,8 +797,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1031/PRO_숫자문자열과영단어.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1031/BQJ_1916_최소비용구하기_G5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1667219833169" expanded="true" signature="400:760" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
