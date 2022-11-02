@@ -33,7 +33,7 @@ while True:
     L, R, C = map(int, input().split())
     if L == 0 and R == 0 and C == 0:
         break
-    build = [[] * R for _ in range(L)]
+    build = [[]  for _ in range(L)]
     for i in range(L):
         for j in range(R):
             build[i].append(list(input()))
@@ -51,3 +51,4 @@ while True:
         print("Trapped!")
     else:
         print(f"Escaped in {visited[ex][ey][ez]} minute(s).")
+
