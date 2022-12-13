@@ -133,7 +133,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.PRO_크레인인형뽑기게임">
     <configuration name="BQJ_14938_서강그라운드_G4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PRO_크레인인형뽑기게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,7 +230,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1213/test.py" />
+      <option name="SCRIPT_NAME" value="C:\codingtest\1213\PRO_크레인인형뽑기게임.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,14 +241,14 @@
     </configuration>
     <list>
       <item itemvalue="Python.BQJ_21924_도시건설_G4" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.BQJ_14938_서강그라운드_G4" />
       <item itemvalue="Python.BQJ_4948_베르트랑공준_S2" />
       <item itemvalue="Python.BQJ_5567_결혼식_S2" />
+      <item itemvalue="Python.PRO_크레인인형뽑기게임" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.PRO_크레인인형뽑기게임" />
         <item itemvalue="Python.BQJ_21924_도시건설_G4" />
         <item itemvalue="Python.BQJ_14938_서강그라운드_G4" />
         <item itemvalue="Python.BQJ_4948_베르트랑공준_S2" />
