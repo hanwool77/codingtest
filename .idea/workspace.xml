@@ -10,7 +10,6 @@
   <component name="ChangeListManager">
     <list default="true" id="033f0340-00c0-443b-8691-2d25cfd4693c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1225/BQJ_14231_박스포장_S2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1225/BQJ_14231_박스포장_S2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +133,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.BQJ_14231_박스포장_S2">
+  <component name="RunManager" selected="Python.이진탐색_재귀">
     <configuration name="BQJ_1251_단어나누기_S5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BQJ_9084_동전_G5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="이진탐색_재귀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1223" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1227" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1223/BQJ_9084_동전_G5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1227/이진탐색_재귀.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,19 +240,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.이진탐색_재귀" />
       <item itemvalue="Python.BQJ_14231_박스포장_S2" />
       <item itemvalue="Python.BQJ_5972_택배배송_G5" />
       <item itemvalue="Python.BQJ_1251_단어나누기_S5" />
       <item itemvalue="Python.BQJ_2252_줄세우기_G3" />
-      <item itemvalue="Python.BQJ_9084_동전_G5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.이진탐색_재귀" />
         <item itemvalue="Python.BQJ_14231_박스포장_S2" />
         <item itemvalue="Python.BQJ_5972_택배배송_G5" />
         <item itemvalue="Python.BQJ_2252_줄세우기_G3" />
         <item itemvalue="Python.BQJ_1251_단어나누기_S5" />
-        <item itemvalue="Python.BQJ_9084_동전_G5" />
       </list>
     </recent_temporary>
   </component>
