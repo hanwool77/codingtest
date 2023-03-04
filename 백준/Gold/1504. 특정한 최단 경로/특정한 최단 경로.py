@@ -33,10 +33,14 @@ def dijkstra(start):
 
     return distance
 
+distance_from1 = dijkstra(1)
+distance_u = dijkstra(u)
+distance_v = dijkstra(v)
+
 # 1 -> u -> v -> N번째 정점
-case1 = dijkstra(1)[u] + dijkstra(u)[v] + dijkstra(v)[N]
+case1 = distance_from1[u] + distance_u[v] + distance_v[N]
 # 1 -> v -> u -> N번째 정점
-case2 = dijkstra(1)[v] + dijkstra(v)[u] + dijkstra(u)[N]
+case2 = distance_from1[v] + distance_v[u] + distance_u[N]
 
 case = min(case1, case2)
 print(case if case < INF else -1)
