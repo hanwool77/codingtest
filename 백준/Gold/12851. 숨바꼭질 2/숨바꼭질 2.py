@@ -18,7 +18,7 @@ while q:
 
     for next in [now - 1, now + 1, now * 2]:
         if 0 <= next < 100001:
-            if distance[next] == -1 or distance[next] == distance[now] + 1:
+            if distance[next] == -1 or distance[next] == distance[now] + 1: # 처음 방문하거나 이미 방문했었지만 최단거리일 경우
                 distance[next] = distance[now] + 1
                 q.append(next)
 
