@@ -1,5 +1,7 @@
 def solution(nums):
-    answer = len(nums) // 2
-    if answer >= len(set(nums)):
-        answer = len(set(nums))
-    return answer
+    ans = len(nums) // 2
+    
+    if ans >= len(set(nums)):
+        ans = len(set(nums))
+        
+    return ans
