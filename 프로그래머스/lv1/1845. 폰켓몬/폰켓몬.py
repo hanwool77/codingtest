@@ -3,5 +3,5 @@ def solution(nums):
     
     if ans >= len(set(nums)):
         ans = len(set(nums))
-        
+    
     return ans
