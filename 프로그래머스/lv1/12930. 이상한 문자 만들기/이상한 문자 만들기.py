@@ -1,13 +1,12 @@
 def solution(s):
-    s = s.split(" ")
     answer = ''
-    
-    for a in s:
-        for i, v in enumerate(a):
+    arr = s.split(" ")
+    for strings in arr:
+        for i, s in enumerate(strings):
             if i % 2 == 0:
-                answer += v.upper()
+                answer += s.upper()
             else:
-                answer += v.lower()
+                answer += s.lower()
         answer += ' '
-    
+        
     return answer[:-1]
