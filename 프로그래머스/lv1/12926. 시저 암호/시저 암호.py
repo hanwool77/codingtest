@@ -13,3 +13,4 @@ def solution(s, n):
             answer += a
             
     return answer
+                
